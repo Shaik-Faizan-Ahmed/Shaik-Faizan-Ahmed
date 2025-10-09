@@ -183,12 +183,14 @@ Secure P2P file sharing using WebRTC for direct browser-to-browser transfers. No
 <!-- Minimal Contribution Heatmap -->
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaik-Faizan-Ahmed&theme=radical&hide_border=true" alt="Contribution Heatmap"/>
 
-<!-- Snake/Pacman eating contributions -->
+<!-- Pac-Man eating contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaik-Faizan-Ahmed/Shaik-Faizan-Ahmed/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaik-Faizan-Ahmed/Shaik-Faizan-Ahmed/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shaik-Faizan-Ahmed/Shaik-Faizan-Ahmed/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaik-Faizan-Ahmed/Shaik-Faizan-Ahmed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaik-Faizan-Ahmed/Shaik-Faizan-Ahmed/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Shaik-Faizan-Ahmed/Shaik-Faizan-Ahmed/output/pacman-contribution-graph.svg">
 </picture>
+
+<sub>_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_</sub>
 
 </div>
 
