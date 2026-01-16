@@ -28,147 +28,7 @@ const faizan = {
 
 <div align="center">
 
-## 🚀 Featured Projects
 
-<!-- Top 4 Projects - Detailed Cards -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 PlagCheck
-**Advanced Plagiarism Detection Tool**
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-Faizan-Ahmed/PlagCheck---A-plagiarism-detection-tool)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-AI-powered plagiarism detection system using sophisticated NLP algorithms and machine learning models. Detects text similarity, paraphrasing, and content manipulation with high accuracy.
-
-**✨ Highlights:**
-- ⚡ Real-time text analysis
-- 📊 Detailed similarity reports  
-- 🎯 Multi-format support
-
-![Stars](https://img.shields.io/github/stars/Shaik-Faizan-Ahmed/PlagCheck---A-plagiarism-detection-tool?style=social)
-![Forks](https://img.shields.io/github/forks/Shaik-Faizan-Ahmed/PlagCheck---A-plagiarism-detection-tool?style=social)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚌 CVR Bus Tracker
-**Smart Campus Transportation**
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-Faizan-Ahmed/CVRBusTracker)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white)
-
-Real-time GPS tracking solution for college transportation. Students can track bus locations, get ETA notifications, and plan commutes efficiently. Reduced wait times by 40%.
-
-**✨ Highlights:**
-- 📍 Live GPS tracking
-- 🔔 Push notifications
-- 🗺️ Route optimization
-
-![Stars](https://img.shields.io/github/stars/Shaik-Faizan-Ahmed/CVRBusTracker?style=social)
-![Forks](https://img.shields.io/github/forks/Shaik-Faizan-Ahmed/CVRBusTracker?style=social)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 TruthLens
-**AI-Powered Fake News Detector**
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-Faizan-Ahmed/TruthLens)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Scraping-4CAF50?style=flat-square&logo=python&logoColor=white)
-
-Combat misinformation with AI-powered fact-checking. Analyzes news articles and online content to determine credibility using multiple ML models and trusted source cross-referencing.
-
-**✨ Highlights:**
-- 🔍 Source verification
-- 🎯 Bias detection
-- 📈 Credibility scoring
-
-![Stars](https://img.shields.io/github/stars/Shaik-Faizan-Ahmed/TruthLens?style=social)
-![Forks](https://img.shields.io/github/forks/Shaik-Faizan-Ahmed/TruthLens?style=social)
-
-</td>
-<td width="50%" valign="top">
-
-### ⏰ Contest Reminder
-**Competitive Programming Assistant**
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-Faizan-Ahmed/ContestReminder)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF9800?style=flat-square&logo=autohotkey&logoColor=white)
-
-Never miss coding competitions! Aggregates contests from LeetCode, CodeChef, Codeforces, and HackerRank with personalized reminders via email and desktop notifications.
-
-**✨ Highlights:**
-- 🌐 Multi-platform support
-- 🔔 Custom alerts
-- 📅 Calendar integration
-
-![Stars](https://img.shields.io/github/stars/Shaik-Faizan-Ahmed/ContestReminder?style=social)
-![Forks](https://img.shields.io/github/forks/Shaik-Faizan-Ahmed/ContestReminder?style=social)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Bottom 2 Projects - Compact Style -->
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📝 NotepadZone
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-Faizan-Ahmed/NotepadZone)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white)
-![File I/O](https://img.shields.io/badge/File_I/O-4CAF50?style=flat-square)
-
-Modern text editor combining notepad simplicity with powerful features like syntax highlighting, auto-save, and multi-format support.
-
-![Stars](https://img.shields.io/github/stars/Shaik-Faizan-Ahmed/NotepadZone?style=social)
-![Forks](https://img.shields.io/github/forks/Shaik-Faizan-Ahmed/NotepadZone?style=social)
-
-</td>
-<td width="50%" align="center">
-
-### 📤 ShareIt
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaik-Faizan-Ahmed/shareit)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
-Secure P2P file sharing using WebRTC for direct browser-to-browser transfers. No cloud storage, no size limits, with end-to-end encryption.
-
-![Stars](https://img.shields.io/github/stars/Shaik-Faizan-Ahmed/shareit?style=social)
-![Forks](https://img.shields.io/github/forks/Shaik-Faizan-Ahmed/shareit?style=social)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
@@ -194,17 +54,7 @@ Secure P2P file sharing using WebRTC for direct browser-to-browser transfers. No
 
 </div>
 
----
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shaik-Faizan-Ahmed&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title_color=FF6B35&icon_color=F7B731&text_color=FFF" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -244,16 +94,8 @@ Secure P2P file sharing using WebRTC for direct browser-to-browser transfers. No
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/XyYMfnXOud/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/faizan2905) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sk_faizan_29) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/faizanahmed_cse)
 
-<!-- Easter Egg: ASCII Art (visible in raw markdown) -->
-<!--
-    ______ ___    _____________    _   __
-   / ____//   |  /  _/__  /   |  / | / /
-  / /_   / /| |  / /   / / /| | /  |/ / 
- / __/  / ___ |_/ /   / / ___ |/ /|  /  
-/_/    /_/  |_/___/  /_/_/  |_/_/ |_/   
-                                         
-If you're reading this in the raw markdown... you found the secret! 🎉
--->
+
+
 
 </div>
 
